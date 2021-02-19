@@ -76,6 +76,7 @@ public let primaryRuleList = RuleList(rules: [
     IdentifierNameRule.self,
     ImplicitGetterRule.self,
     ImplicitReturnRule.self,
+    ImplicitSelfRule.self,
     ImplicitlyUnwrappedOptionalRule.self,
     InclusiveLanguageRule.self,
     IndentationWidthRule.self,
